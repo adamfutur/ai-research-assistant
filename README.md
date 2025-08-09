@@ -7,7 +7,7 @@ The **AI Academic Research Assistant** provides comprehensive insights from acad
 
 ## Screenshot
 
-![Homepage Screenshot](Screenshot2025-08-09200207.png)
+![Homepage Screenshot](Screenshot 2025-08-09 200207.png)
 
 ---
 
